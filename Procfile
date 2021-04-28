@@ -1,1 +1,1 @@
-worker: python Ауф питон.py $PORT
+worker: python Auf bot.py $PORT
